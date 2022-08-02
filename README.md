@@ -2,4 +2,4 @@
 
 Note :-
 - For zomato stock data i got only 235 records. 
-- more the records better the result. 
+- More number of records gives better result. 
